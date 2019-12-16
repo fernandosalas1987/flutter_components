@@ -1,20 +1,30 @@
 {
-    "app" : "Componentes",
-    "routes" : [
+    "app": "Componentes",
+    "routes": [
         {
-            "route" : "alert",
-            "icon" : "add_alert",
+            "route": "alert",
+            "icon": "add_alert",
             "text": "Alertas"
         },
         {
-            "route" : "avatar",
-            "icon" : "accessibility",
+            "route": "avatar",
+            "icon": "accessibility",
             "text": "Avatars"
         },
         {
-            "route" : "card",
-            "icon" : "folder_open",
+            "route": "card",
+            "icon": "folder_open",
             "text": "Cards - Tarjetas"
+        },
+        {
+            "route": "animatedContainer",
+            "icon": "donut_large",
+            "text": "Animated Container"
+        },
+        {
+            "route": "inputs",
+            "icon": "input",
+            "text": "Inputs"
         }
     ]
 }
